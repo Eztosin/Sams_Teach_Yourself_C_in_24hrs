@@ -18,3 +18,5 @@ with all to be completed in 24 hours.
 -Working with Loops.
 
 -Using Conditional Operators.
+
+-Working with Data Modifiers and Math Functions
