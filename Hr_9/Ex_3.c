@@ -14,7 +14,7 @@ long result;
 x = 400;
 y = 253;
 
-result = x * y;
+ result = (long)x * y;
 
 printf("The result as a long int is %ld\n", result);
 
